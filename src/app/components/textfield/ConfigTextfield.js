@@ -1,6 +1,6 @@
 //import React from 'react';
 import './ConfigTextfield.css';
-import Textfield from 'components/input/textfield/Textfield.js';
+import Textfield from 'default_cmp/input/textfield/Textfield.js';
 
 
 class ConfigTextfield extends Textfield {
